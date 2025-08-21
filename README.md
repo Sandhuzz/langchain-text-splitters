@@ -16,15 +16,6 @@ Text Splitters are tools in LangChain that:
 
 ⚡ Enable faster and more accurate retrieval for QA and summarization
 
-# ✨ Why Use Text Splitters?
-
-📏 Manage LLM Context Limits → Stay within model token limits
-
-🎯 Better Retrieval → Improve search and RAG pipelines
-
-📑 Structured Processing → Prepare documents for embeddings
-
-🛠 Flexibility → Choose from different splitting strategies
 
 
 # 🚀 Why Use Text Splitters?
